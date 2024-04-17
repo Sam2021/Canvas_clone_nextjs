@@ -26,17 +26,30 @@ I am thrilled to introduce Imaginify, a powerful and feature-rich platform desig
 ## <a name="features">🔋 Features</a>
 
 👉 **Effortless Authentication & Authorization:** Securely access your images and manage your profile.
+
 👉 **Community Image Showcase:** Get inspired and inspire others with a vibrant image gallery. ️
+
 👉 **Advanced Image Search:** Find exactly what you're looking for with precise search tools.
+
 👉 **Image Restoration:** Bring old photos back to life with AI-powered restoration features. ✨
+
 👉 **Image Recoloring:** Breathe new life into your images with stunning color manipulation.
+
 👉 **Image Generative Fill:** Seamlessly fill in missing areas of your images with AI magic. 🪄
+
 👉 **Object Removal:** Effortlessly remove unwanted objects for a cleaner composition.
+
 👉 **Background Removal:** Isolate your subject and create stunning focus effects.
+
 👉 **Download Transformed Images:** Save your creations and share them with the world.
+
 👉 **Transformed Image Details:** View detailed information about your edited images.
+
 👉 **Transformation Management:** Track and manage all your editing revisions in one place.
+
 👉 **Personalized Profile Page:** Showcase your creativity and share your editing journey. ‍
+
 👉 **Credits System:** Purchase credits to unlock advanced features and fuel your editing adventures.
+
 👉 **Responsive UI/UX:** Enjoy a smooth and intuitive experience across all devices.
 
